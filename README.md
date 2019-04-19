@@ -1,4 +1,5 @@
-# CRES(http://www.open-sensing.org/cosmic-ray-environmental-sensing) Gamma ray, thermal & fast neutron detection. Current focus is thermal & fast neutron detection. 
+# CRES(http://www.open-sensing.org/cosmic-ray-environmental-sensing) 
+Current focus of CRES: Thermal & Fast neutron detection. 
 
 
 Currently has datasheets and files for thermal neutron detector being built. We recieved a contrabution from Eljen to detect thermal neutrons, which was two EJ-426 scinitilators, and one wavelengh shifting bar the EJ-280. We are currently trying to produce results with a 6mm SiPM, before switching to using three 1mm SiPM's.
