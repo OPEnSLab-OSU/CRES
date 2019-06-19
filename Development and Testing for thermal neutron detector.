@@ -30,7 +30,6 @@ Where we are:
     The SiPM by SensL documentation can be triggered by directly by gamma ray events.
    
    Suggested resolutions for potential issues:
-   
     A fourior transform may be needed to differentate between gamma ray events and neutrons detected by the scinitlator configuration.
     Arduino has many libraries to perform a fast fourior transform(FFT), we just need to ensure that we can read the waveform of the SiPM
     to do the FFT. The current Mit Cosmic Watch V2 on the O-scope at the test point(TP3) going to the analog pin on the 
